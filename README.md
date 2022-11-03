@@ -4,10 +4,10 @@ This application is a project of the Internet programming workshop course.
 
 The details of this apps:
 
-1. Use Java for programming language
-2. Use SQLite for saving data items.
-3. Use List View for retrive data items.
-4. Use CRUD (Create, Read, Update, and Delete) operation for processing data.
+1. Use Javascript and PHP for programming language.
+2. Use MYSQL for database.
+3. Use CSS and bootstrap framework for design the website.
+4. Use Client side and Admin side for control the data.
 
 
 <b> Demo of GO-CAK Website </b> 
